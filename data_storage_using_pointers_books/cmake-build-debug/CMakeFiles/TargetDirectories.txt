@@ -1,0 +1,3 @@
+C:/Users/pavbyte/CLionProjects/data_storage_using_pointers_books/cmake-build-debug/CMakeFiles/data_storage_using_pointers_books.dir
+C:/Users/pavbyte/CLionProjects/data_storage_using_pointers_books/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pavbyte/CLionProjects/data_storage_using_pointers_books/cmake-build-debug/CMakeFiles/rebuild_cache.dir

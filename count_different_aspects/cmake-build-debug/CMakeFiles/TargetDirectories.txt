@@ -1,0 +1,3 @@
+C:/Users/pavbyte/CLionProjects/count_different_aspects/cmake-build-debug/CMakeFiles/count_different_aspects.dir
+C:/Users/pavbyte/CLionProjects/count_different_aspects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pavbyte/CLionProjects/count_different_aspects/cmake-build-debug/CMakeFiles/rebuild_cache.dir

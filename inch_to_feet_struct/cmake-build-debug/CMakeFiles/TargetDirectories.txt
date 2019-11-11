@@ -1,0 +1,3 @@
+C:/Users/pavbyte/CLionProjects/inch_to_feet_struct/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pavbyte/CLionProjects/inch_to_feet_struct/cmake-build-debug/CMakeFiles/inch_to_feet_struct.dir
+C:/Users/pavbyte/CLionProjects/inch_to_feet_struct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
